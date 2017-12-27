@@ -5,34 +5,34 @@ A implementation of Multi-digit Number Recognition from Street View Imagery usin
 ## tensorflow version
 
 ### Graph
-![graph](images/svhn_tf_graph.png)
+![graph](../images/svhn_tf_graph.png)
 
 ### Accuracy
-![accuracy](images/svhn_tf_accuracy.png)
+![accuracy](../images/svhn_tf_accuracy.png)
 
 ### Loss
-![loss](images/svhn_tf_loss.png)
+![loss](../images/svhn_tf_loss.png)
 
 ### Result
 
 Results on train, val and test dataset,
 
-![eval](images/svhn_tf_eval.png)
+![eval](../images/svhn_tf_eval.png)
 
 
 ### Inference of outside images
 
-![8](images/res_8.png)
+![8](../images/res_8.png)
 
-![37](images/res_37.png)
+![37](../images/res_37.png)
 
-![889](images/res_889.png)
+![889](../images/res_889.png)
 
-![2546](images/res_2546.png)
+![2546](../images/res_2546.png)
 
-![30037](images/res_30037.png)
+![30037](../images/res_30037.png)
 
-![30039](images/res_30039.png)
+![30039](../images/res_30039.png)
 
 digit "10" means no digits
 
