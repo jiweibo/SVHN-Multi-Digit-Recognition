@@ -60,6 +60,8 @@ SVHN
             - train
 ```
 
+4）Pretrained Model can be download from my [Baidu Cloud Drive](https://pan.baidu.com/s/1miR8j4s) and  Password is crdf
+
 ### Usage
 
 1) Convert to TFRecords format
